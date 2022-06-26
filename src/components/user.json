@@ -1,0 +1,52 @@
+{
+  "user": {
+    "uid": "nvfGZAYTQCO0yHiEH5IaXhWcBlD2",
+    "email": "oscar.bahamonde.dev@gmail.com",
+    "emailVerified": true,
+    "displayName": "Oscar Martin Bahamonde Muñoz",
+    "isAnonymous": false,
+    "photoURL": "https://lh3.googleusercontent.com/a-/AOh14GjS7Wxhx_ILH5gyKz6m5cJI4mNek70E9vzLg42f=s96-c",
+    "providerData": [
+      {
+        "providerId": "google.com",
+        "uid": "110452235728654321644",
+        "displayName": "Oscar Martin Bahamonde Muñoz",
+        "email": "oscar.bahamonde.dev@gmail.com",
+        "phoneNumber": null,
+        "photoURL": "https://lh3.googleusercontent.com/a-/AOh14GjS7Wxhx_ILH5gyKz6m5cJI4mNek70E9vzLg42f=s96-c"
+      }
+    ],
+    "stsTokenManager": {
+      "refreshToken": "AIwUaOlGDAkRLxL5QisoZ7hb9-AFP361E6dmLUzvXmDbutKF7Pt4_68j6QULN1gRMi9Mvq1R5jxwAHhBz6h0QmMsXMnxBqZto3bn5wvBxSqZgJN3iQPvc7pmybK_5_C9DYV-1A4rFn-64TebACc-g3-MLNh14Y67ndKfNvHoH86YmfCS99KlH4NJdUU6mkJziy4sU2jQLJKUl0O5o9XI31sz3K9qo4qRC-dJK8doJz42kdzpI0KQH_zuPwPPjiNZHq55ByfWNpUsg3IDhJ1CQp74j1WFScqeXszAFUoSarJrbvzWznRZR_by6fTCfQa--gpFnLcx1kTRj3U9-vFlbCrt3DJj_xKpdPxKBArhnYPq1mlf6arB3kbBDEc-Lek3ETNhwiBQ7LLNOtZvh6ZdcBsfx23SQEWTv_S8fpo2qkt9kXTXedTZlZFcETq0dlEj_j_0cMRdvwGO",
+      "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk4OTdjZjk0NTllMjU0ZmYxYzY3YTRlYjZlZmVhNTJmMjFhOWJhMTQiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiT3NjYXIgTWFydGluIEJhaGFtb25kZSBNdcOxb3oiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pTN1d4aHhfSUxINWd5S3o2bTVjSkk0bU5lazcwRTl2ekxnNDJmPXM5Ni1jIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2ludGFhcy04ODBiMyIsImF1ZCI6ImludGFhcy04ODBiMyIsImF1dGhfdGltZSI6MTY1NjIxMDI0NywidXNlcl9pZCI6Im52ZkdaQVlUUUNPMHlIaUVINUlhWGhXY0JsRDIiLCJzdWIiOiJudmZHWkFZVFFDTzB5SGlFSDVJYVhoV2NCbEQyIiwiaWF0IjoxNjU2MjEwMjQ3LCJleHAiOjE2NTYyMTM4NDcsImVtYWlsIjoib3NjYXIuYmFoYW1vbmRlLmRldkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjExMDQ1MjIzNTcyODY1NDMyMTY0NCJdLCJlbWFpbCI6WyJvc2Nhci5iYWhhbW9uZGUuZGV2QGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6Imdvb2dsZS5jb20ifX0.oCzDVXuFH_w52ko_SjsobWpQXlP9oimQ-qTVe4PI2w7JHv864o8F7sloupsC6M9jqqqRZkKuFjMj5-hQoW5Rlib9D7mi9Ev5xxF-cpuz3VEk6L0OKRIAH979Wpc-YLnQ20oRrwpofEZpGmg4TXHaBpqrB7kn9wOjIUD9kAHhVc-9-PBqVeco33CwLN72pOLc9aCgvhw2TyamG0vaOlyJ9aXIR4Si5SDjKdDAEtQoOhFDSmtd4soDIyJvzaVNCbsLSFekjuN7iXFqXhWNokm_QlewY0oCYEkTgIas4fWyA1F-HB7FFVrvc2Rv6fGXhgme4vXcH3cpdm2EP5mJbCwNfQ",
+      "expirationTime": 1656213848434
+    },
+    "createdAt": "1649953148102",
+    "lastLoginAt": "1656210247257",
+    "apiKey": "AIzaSyC-EWWaIHK_yLZMM9EAMhzSH7cyYc6exls",
+    "appName": "[DEFAULT]"
+  },
+  "providerId": "google.com",
+  "_tokenResponse": {
+    "federatedId": "https://accounts.google.com/110452235728654321644",
+    "providerId": "google.com",
+    "email": "oscar.bahamonde.dev@gmail.com",
+    "emailVerified": true,
+    "firstName": "Oscar Martin",
+    "fullName": "Oscar Martin Bahamonde Muñoz",
+    "lastName": "Bahamonde Muñoz",
+    "photoUrl": "https://lh3.googleusercontent.com/a-/AOh14GjS7Wxhx_ILH5gyKz6m5cJI4mNek70E9vzLg42f=s96-c",
+    "localId": "nvfGZAYTQCO0yHiEH5IaXhWcBlD2",
+    "displayName": "Oscar Martin Bahamonde Muñoz",
+    "idToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijk4OTdjZjk0NTllMjU0ZmYxYzY3YTRlYjZlZmVhNTJmMjFhOWJhMTQiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiT3NjYXIgTWFydGluIEJhaGFtb25kZSBNdcOxb3oiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pTN1d4aHhfSUxINWd5S3o2bTVjSkk0bU5lazcwRTl2ekxnNDJmPXM5Ni1jIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2ludGFhcy04ODBiMyIsImF1ZCI6ImludGFhcy04ODBiMyIsImF1dGhfdGltZSI6MTY1NjIxMDI0NywidXNlcl9pZCI6Im52ZkdaQVlUUUNPMHlIaUVINUlhWGhXY0JsRDIiLCJzdWIiOiJudmZHWkFZVFFDTzB5SGlFSDVJYVhoV2NCbEQyIiwiaWF0IjoxNjU2MjEwMjQ3LCJleHAiOjE2NTYyMTM4NDcsImVtYWlsIjoib3NjYXIuYmFoYW1vbmRlLmRldkBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJnb29nbGUuY29tIjpbIjExMDQ1MjIzNTcyODY1NDMyMTY0NCJdLCJlbWFpbCI6WyJvc2Nhci5iYWhhbW9uZGUuZGV2QGdtYWlsLmNvbSJdfSwic2lnbl9pbl9wcm92aWRlciI6Imdvb2dsZS5jb20ifX0.oCzDVXuFH_w52ko_SjsobWpQXlP9oimQ-qTVe4PI2w7JHv864o8F7sloupsC6M9jqqqRZkKuFjMj5-hQoW5Rlib9D7mi9Ev5xxF-cpuz3VEk6L0OKRIAH979Wpc-YLnQ20oRrwpofEZpGmg4TXHaBpqrB7kn9wOjIUD9kAHhVc-9-PBqVeco33CwLN72pOLc9aCgvhw2TyamG0vaOlyJ9aXIR4Si5SDjKdDAEtQoOhFDSmtd4soDIyJvzaVNCbsLSFekjuN7iXFqXhWNokm_QlewY0oCYEkTgIas4fWyA1F-HB7FFVrvc2Rv6fGXhgme4vXcH3cpdm2EP5mJbCwNfQ",
+    "context": "",
+    "oauthAccessToken": "ya29.a0ARrdaM8yE0a9Mcj9TzMGovvBhHPdmR1hM1vJ7jWVYTc6341ahYDdOquUeDSIkiWSCiyPYZNJcAJ_Sn60svhPPmZDgLksMV5hTmDM1Z7U0GKt_4FYuqZwGVmSXyQdDgSIkvL8oUn3StbMsSLPYzxs7clJ4158r18",
+    "oauthExpireIn": 3599,
+    "refreshToken": "AIwUaOlGDAkRLxL5QisoZ7hb9-AFP361E6dmLUzvXmDbutKF7Pt4_68j6QULN1gRMi9Mvq1R5jxwAHhBz6h0QmMsXMnxBqZto3bn5wvBxSqZgJN3iQPvc7pmybK_5_C9DYV-1A4rFn-64TebACc-g3-MLNh14Y67ndKfNvHoH86YmfCS99KlH4NJdUU6mkJziy4sU2jQLJKUl0O5o9XI31sz3K9qo4qRC-dJK8doJz42kdzpI0KQH_zuPwPPjiNZHq55ByfWNpUsg3IDhJ1CQp74j1WFScqeXszAFUoSarJrbvzWznRZR_by6fTCfQa--gpFnLcx1kTRj3U9-vFlbCrt3DJj_xKpdPxKBArhnYPq1mlf6arB3kbBDEc-Lek3ETNhwiBQ7LLNOtZvh6ZdcBsfx23SQEWTv_S8fpo2qkt9kXTXedTZlZFcETq0dlEj_j_0cMRdvwGO",
+    "expiresIn": "3600",
+    "oauthIdToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjJiMDllNzQ0ZDU4Yzk5NTVkNGYyNDBiNmE5MmY3YjM3ZmVhZDJmZjgiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiMjQ0NDY5MTYzMjUwLWQ1MDY4c2tzZXEwdmE2NmRkazI3NDJwbjczbHFoYzZoLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiMjQ0NDY5MTYzMjUwLWQ1MDY4c2tzZXEwdmE2NmRkazI3NDJwbjczbHFoYzZoLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTEwNDUyMjM1NzI4NjU0MzIxNjQ0IiwiZW1haWwiOiJvc2Nhci5iYWhhbW9uZGUuZGV2QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiVEg2Z0FtVjZhb0VFdzVHUm8xSF9QdyIsImlhdCI6MTY1NjIxMDI0NywiZXhwIjoxNjU2MjEzODQ3fQ.dY1SwFwlxI_DChW_kLDohw6pNJlRw3ipkEO8UiJsoNv0NFpx_ZN-6UtCj-RVvcHR9MG0EoVxvonSX4WJjgdXaCM6rVv2hzQw-__O1vN9_zgcEzg1EtCg8VMGol0E8gFMBEGRlenzdEFZyz-Of_RhXgcKPkrhUgwWsMpUN2yNqUUpyBRbGZs4G1yHHyQSkusOyj3QEcG8rpO_lhfroogDhA1T7OMsQ-_fx-QocnV_bGXcDhq0Ss33iCAoLd8W_4Nn5PxfD-i9I5FyHLarEEiWgXotL0NSRBQkTmVyFunVpjU0xwqd994u24nIShl3rsN9dP33AjZx23lpwRHLLta0NQ",
+    "rawUserInfo": "{\"name\":\"Oscar Martin Bahamonde Muñoz\",\"granted_scopes\":\"openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email\",\"id\":\"110452235728654321644\",\"verified_email\":true,\"given_name\":\"Oscar Martin\",\"locale\":\"en\",\"family_name\":\"Bahamonde Muñoz\",\"email\":\"oscar.bahamonde.dev@gmail.com\",\"picture\":\"https://lh3.googleusercontent.com/a-/AOh14GjS7Wxhx_ILH5gyKz6m5cJI4mNek70E9vzLg42f=s96-c\"}",
+    "kind": "identitytoolkit#VerifyAssertionResponse"
+  },
+  "operationType": "signIn"
+}
