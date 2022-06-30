@@ -7,6 +7,7 @@ declare module '@vue/runtime-core' {
   export interface GlobalComponents {
     CognitoAuth: typeof import('./components/CognitoAuth.vue')['default']
     Counter: typeof import('./components/Counter.vue')['default']
+    Email: typeof import('./components/Email.vue')['default']
     Footer: typeof import('./components/Footer.vue')['default']
     GoogleAuth: typeof import('./components/GoogleAuth.vue')['default']
     Ico: typeof import('./components/Ico.vue')['default']

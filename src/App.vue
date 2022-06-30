@@ -19,6 +19,6 @@ useHead({
 
 <template>
   <div col center>
-    <RouterView />
+   <Email />
   </div>
 </template>
