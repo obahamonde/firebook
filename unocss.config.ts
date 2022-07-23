@@ -34,10 +34,14 @@ export default defineConfig({
     ['x96', 'h-96 w-96'],
     ['x128', 'h-128 w-128'],
     ['r','rounded'],
-    ['r-f','rounded-full'],
+    ['rf','rounded-full'],
     ['sh-lg','shadow-lg shadow-gray-500'],
     ['sh-md','shadow-md shadow-gray-500'],
-    ['sh-sm','shadow-sm shadow-gray-500']
+    ['sh-sm','shadow-sm shadow-gray-500'],
+    ['tr','top-0 right-0 fixed'],
+    ['tl','top-0 left-0 fixed'],
+    ['bl','bottom-0 left-0 fixed'],
+    ['br','bottom-0 right-0 fixed']
      ],
   presets: [
     presetUno(),

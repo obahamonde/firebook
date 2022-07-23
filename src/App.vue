@@ -19,6 +19,7 @@ useHead({
 
 <template>
   <div col center>
-   <Email />
+   <router-view/>
+   <Auth br m-4 />
   </div>
 </template>

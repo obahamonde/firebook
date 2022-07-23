@@ -5,6 +5,7 @@ import '@vue/runtime-core'
 
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
+    Auth: typeof import('./components/Auth.vue')['default']
     CognitoAuth: typeof import('./components/CognitoAuth.vue')['default']
     Counter: typeof import('./components/Counter.vue')['default']
     Email: typeof import('./components/Email.vue')['default']
